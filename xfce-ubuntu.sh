@@ -20,8 +20,6 @@ chmod +x startwm.sh
 #Iniciar o xrdp
 /etc/init.d/xrdp start
 
-echo.
 echo Now in Windows, use Remote Desktop Connection
 echo localhost:3390
 echo then login with Xorg, fill in your username and password.
-echo.
